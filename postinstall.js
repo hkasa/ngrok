@@ -11,6 +11,7 @@ var files = {
 	darwinia32:	source + 'darwin_386.zip',
 	darwinx64:	source + 'darwin_amd64.zip',
 	linuxarm:	source + 'linux_arm.zip',
+	andoridarm:	source + 'linux_arm.zip',
 	linuxia32:	source + 'linux_386.zip',
 	linuxx64:	source + 'linux_amd64.zip',
 	win32ia32:	source + 'windows_386.zip',
